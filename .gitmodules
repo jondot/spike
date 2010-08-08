@@ -1,0 +1,3 @@
+[submodule "lib/template/css/960"]
+	path = lib/template/css/960
+	url = http://github.com/nathansmith/960-Grid-System.git

@@ -21,10 +21,12 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
      ".gitignore",
+     ".gitmodules",
      "LICENSE",
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "bin/spike",
      "lib/initializers/960.rb",
      "lib/spike.rb",
      "lib/template/app.css",
@@ -67,6 +69,7 @@ Gem::Specification.new do |s|
      "lib/template/css/960/templates/corel_draw/960_grid_24_col.cdt",
      "lib/template/css/960/templates/expression_design/960_grid_12_col.design",
      "lib/template/css/960/templates/expression_design/960_grid_16_col.design",
+     "lib/template/css/960/templates/expression_design/960_grid_24_col.design",
      "lib/template/css/960/templates/fireworks/960_grid_12_col.png",
      "lib/template/css/960/templates/fireworks/960_grid_16_col.png",
      "lib/template/css/960/templates/fireworks/960_grid_24_col.png",
@@ -89,6 +92,7 @@ Gem::Specification.new do |s|
      "lib/template/css/960/templates/photoshop/960_grid_24_col.psd",
      "lib/template/css/960/templates/visio/960_visio.vsd",
      "lib/template/index.html",
+     "spike.gemspec",
      "test/helper.rb",
      "test/test_spike.rb"
   ]
