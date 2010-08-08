@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'spike'
+$thor_runner = false
+Spike.start(ARGV)
