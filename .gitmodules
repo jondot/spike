@@ -1,3 +1,6 @@
 [submodule "lib/template/css/960"]
 	path = lib/template/css/960
 	url = http://github.com/nathansmith/960-Grid-System.git
+[submodule "lib/template/css/blueprint"]
+	path = lib/template/css/blueprint
+	url = http://github.com/joshuaclayton/blueprint-css.git
